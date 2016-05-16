@@ -1,0 +1,3 @@
+[submodule "external/dropout"]
+	path = external/dropout
+	url = https://github.com/mdenil/dropout.git
